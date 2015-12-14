@@ -3,6 +3,8 @@ QuickBlog::Application.routes.draw do
   #set root to the index file
   root to: 'posts#index'
   #added to devlop branch
+
+  #added new changes
   # The priority is based upon order of creation:
   # first created -> highest priority.
 
